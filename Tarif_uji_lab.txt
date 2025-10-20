@@ -1,0 +1,53 @@
+Kategori	Uji/Subkategori	Jenis Uji	Satuan	Tarif
+Entomology	Pemeriksaan langsung	-	per sampel	10000
+Micology	Pemeriksaan langsung	-	per sampel	10000
+Micology	Blotter Test	Benih Kecil	per sampel	30000
+Micology	Blotter Test	Benih Besar	per sampel	60000
+Micology	Agar Test	Benih Kecil	per sampel	75000
+Micology	Agar Test	Benih Besar	per sampel	150000
+Micology	Serelogi - Rapid Test	-	per sampel	70000
+Micology	Serelogi - ELISA	-	per sampel	225000
+Micology	Washing Test (metode pencucian)	-	per sampel	35000
+Virologi Serelogi	Rapid Test	-	per sampel	70000
+Virologi Serelogi	ELISA	-	per sampel	225000
+Bakteriologi	Diagnostik Agar	-	per sampel	250000
+Bakteriologi	Biologi	-	per sampel	390000
+Bakteriologi	Serelogi - Rapid Test	-	per sampel	70000
+Bakteriologi	Serelogi - ELISA	-	per sampel	225000
+Nematology	Pemeriksaan langsung	-	per sampel	25000
+Gulma	Pemeriksaan langsung	-	per sampel	10000
+Gulma	Uji pertumbuhan (Growing On Test)	-	per sampel	25000
+Bioteknologi	PCR/Reverse Transfer/Nested PCR	-	per sampel	400000
+Bioteknologi	Pengurutan (Sequencing)	-	per sampel	350000
+Bioteknologi	Real Time PCR	-	per sampel	425000
+Bioteknologi	Uji PCR lainnya	-	per sampel	400000
+Metode Pengujian lainnya	-	-	per sampel	500000
+Pengawasan Pangan Segar Asal Tumbuhan	Aflatoksin/Mikotoksin - ELISA	-	per sampel	250000
+Pengawasan Pangan Segar Asal Tumbuhan	Aflatoksin/Mikotoksin - HPLC	-	per sampel	600000
+Pengawasan Pangan Segar Asal Tumbuhan	Aflatoksin/Mikotoksin - Fluorometer	-	per sampel	700000
+Pengawasan Pangan Segar Asal Tumbuhan	Residu Pestisida - Organoklorin	-	per sampel	500000
+Pengawasan Pangan Segar Asal Tumbuhan	Residu Pestisida - Organofosfat	-	per sampel	500000
+Pengawasan Pangan Segar Asal Tumbuhan	Residu Pestisida - Piretroid	-	per sampel	500000
+Pengawasan Pangan Segar Asal Tumbuhan	Residu Pestisida - Karbamat	-	per sampel	500000
+Pengawasan Pangan Segar Asal Tumbuhan	Residu Pestisida lainnya	-	per sampel	500000
+Pengawasan Pangan Segar Asal Tumbuhan	Residu Logam Berat (Pb)	-	per sampel	75000
+Pengawasan Pangan Segar Asal Tumbuhan	Residu Logam Berat (Cd)	-	per sampel	75000
+Pengawasan Pangan Segar Asal Tumbuhan	Residu Logam Berat (Hg)	-	per sampel	100000
+Pengawasan Pangan Segar Asal Tumbuhan	Residu Logam Berat (As)	-	per sampel	125000
+Pengawasan Pangan Segar Asal Tumbuhan	Residu Logam Berat lainnya	-	per sampel	100000
+Pengawasan Pangan Segar Asal Tumbuhan	Uji Formalin - Rapid Test	-	per sampel	20000
+Pengawasan Pangan Segar Asal Tumbuhan	Uji Formalin - Spektrofotometer	-	per sampel	35000
+Pengawasan Pangan Segar Asal Tumbuhan	Deteksi Bahan Kimia lainnya - Rapid Test	-	per sampel	45000
+Pengawasan Pangan Segar Asal Tumbuhan	Deteksi Bahan Kimia lainnya - Iodometrik	-	per sampel	25000
+Pengawasan Pangan Segar Asal Tumbuhan	Deteksi Bahan Kimia lainnya - Dietil Parafenilen Diamin	-	per sampel	195000
+Pengawasan Pangan Segar Asal Tumbuhan	Deteksi Bahan Kimia lainnya - Spektrofotometri	-	per sampel	150000
+Pengawasan Pangan Segar Asal Tumbuhan	Deteksi Bahan Kimia lainnya - Metode Uji lainnya	-	per sampel	100000
+Pengawasan Pangan Segar Asal Tumbuhan	Cemaran Mikroba - Total Mikroba (TPC)	-	per sampel	125000
+Pengawasan Pangan Segar Asal Tumbuhan	Cemaran Mikroba - E. Coli	-	per sampel	125000
+Pengawasan Pangan Segar Asal Tumbuhan	Cemaran Mikroba - Coliform	-	per sampel	75000
+Pengawasan Pangan Segar Asal Tumbuhan	Cemaran Mikroba - Staphylococcus Aureus	-	per sampel	125000
+Pengawasan Pangan Segar Asal Tumbuhan	Cemaran Mikroba - Salmonella Sp	-	per sampel	125000
+Pengawasan Pangan Segar Asal Tumbuhan	Cemaran Mikroba - Kapang dan Khamir	-	per sampel	75000
+Pengawasan Pangan Segar Asal Tumbuhan	Cemaran Mikroba - Listeria Sp	-	per sampel	75000
+Pengawasan Pangan Segar Asal Tumbuhan	Cemaran Mikroba - Campylobacter Sp	-	per sampel	90000
+Pengawasan Pangan Segar Asal Tumbuhan	Cemaran Mikroba - Bakteri lainnya	-	per sampel	100000

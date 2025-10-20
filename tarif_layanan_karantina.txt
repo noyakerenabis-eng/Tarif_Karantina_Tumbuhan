@@ -1,0 +1,164 @@
+Kategori Utama	Sub Kategori	Jenis / Bentuk	Sub-Jenis	Jenis Transaksi	Satuan	Tarif (Rp)
+Pemeriksaan	Tumbuhan dan Benih	Berupa pohon (termasuk kecambah yang bakal akar dan daunnya sudah bisa ditentukan)	Pohon (termasuk stumb)	Impor	per batang	200
+Pemeriksaan	Tumbuhan dan Benih	Berupa pohon (termasuk kecambah yang bakal akar dan daunnya sudah bisa ditentukan)	Pohon (termasuk stumb)	Ekspor/antararea	per batang	100
+Pemeriksaan	Tumbuhan dan Benih	Berupa pohon (termasuk kecambah yang bakal akar dan daunnya sudah bisa ditentukan)	Planlet / ex-plant	Impor	per batang	25
+Pemeriksaan	Tumbuhan dan Benih	Berupa pohon (termasuk kecambah yang bakal akar dan daunnya sudah bisa ditentukan)	Planlet / ex-plant	Ekspor/antararea	per batang	10
+Pemeriksaan	Tumbuhan dan Benih	Berupa stek / cutting	-	Impor	per batang	10
+Pemeriksaan	Tumbuhan dan Benih	Berupa stek / cutting	-	Ekspor/antararea	per batang	5
+Pemeriksaan	Tumbuhan dan Benih	Berupa umbi / akar / rimpang / daun	-	Impor	per kilogram	50
+Pemeriksaan	Tumbuhan dan Benih	Berupa umbi / akar / rimpang / daun	-	Ekspor/antararea	per kilogram	25
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Padi-padian	Impor	per kilogram	225
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Padi-padian	Ekspor/antararea	per kilogram	50
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Palawija	Impor	per kilogram	180
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Palawija	Ekspor/antararea	per kilogram	40
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Sayur-sayuran	Impor	per kilogram	270
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Sayur-sayuran	Ekspor/antararea	per kilogram	60
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Tanaman hias lanskap	Impor	per kilogram	360
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Tanaman hias lanskap	Ekspor/antararea	per kilogram	80
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Rumput-rumputan (non lanskap) & penutup tanah	Impor	per kilogram	200
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Rumput-rumputan (non lanskap) & penutup tanah	Ekspor/antararea	per kilogram	50
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Buah-buahan	Impor	per kilogram	500
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Buah-buahan	Ekspor/antararea	per kilogram	100
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Tumbuhan hutan	Impor	per kilogram	450
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Tumbuhan hutan	Ekspor/antararea	per kilogram	100
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Tanaman perkebunan (kecambah belum tentu akar/daun)	Impor	per biji	25
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Tanaman perkebunan (kecambah belum tentu akar/daun)	Ekspor/antararea	per biji	10
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Tanaman perkebunan semusim	Impor	per kilogram	250
+Pemeriksaan	Tumbuhan dan Benih	Berupa biji	Tanaman perkebunan semusim	Ekspor/antararea	per kilogram	100
+Pemeriksaan	Tumbuhan dan Benih	Berupa serbuk sari	-	Impor	per gram	500
+Pemeriksaan	Tumbuhan dan Benih	Berupa serbuk sari	-	Ekspor/antararea	per gram	150
+Pemeriksaan	Tumbuhan dan Benih	Bentuk yang dikemas (botol erlemeyer, cawan petri, sejenis)	-	Impor	per kemasan	500
+Pemeriksaan	Tumbuhan dan Benih	Bentuk yang dikemas (botol erlemeyer, cawan petri, sejenis)	-	Ekspor/antararea	per kemasan	250
+Pemeriksaan	Hasil tumbuhan bukan benih	Berbentuk batang (termasuk bunga potong)	-	Impor	per batang	100
+Pemeriksaan	Hasil tumbuhan bukan benih	Berbentuk batang (termasuk bunga potong)	-	Ekspor/antararea	per batang	50
+Pemeriksaan	Hasil tumbuhan bukan benih	Berbentuk buah (buah segar)	-	Impor	per kilogram	10
+Pemeriksaan	Hasil tumbuhan bukan benih	Berbentuk buah (buah segar)	-	Ekspor/antararea	per kilogram	5
+Pemeriksaan	Hasil tumbuhan bukan benih	Berbentuk biji	-	Impor	per ton	1.000,00
+Pemeriksaan	Hasil tumbuhan bukan benih	Berbentuk biji	-	Ekspor	per ton	500
+Pemeriksaan	Hasil tumbuhan bukan benih	Berbentuk biji	-	Antararea	per ton	250
+Pemeriksaan	Hasil tumbuhan bukan benih	Berbentuk daun, bunga	-	Impor	per kilogram	10
+Pemeriksaan	Hasil tumbuhan bukan benih	Berbentuk daun, bunga	-	Ekspor	per kilogram	5
+Pemeriksaan	Hasil tumbuhan bukan benih	Berbentuk daun, bunga	-	Antararea	per kilogram	2
+Pemeriksaan	Hasil tumbuhan bukan benih	Berbentuk umbi, akar, rimpang	-	Impor	per kilogram	5
+Pemeriksaan	Hasil tumbuhan bukan benih	Berbentuk umbi, akar, rimpang	-	Ekspor	per kilogram	3
+Pemeriksaan	Hasil tumbuhan bukan benih	Berbentuk umbi, akar, rimpang	-	Antararea	per kilogram	2
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Berbentuk batangan (termasuk kayu)	-	Impor	per kilogram	10
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Berbentuk batangan (termasuk kayu)	-	Ekspor/antararea	per kilogram	5
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Berbentuk kulit, daun, bunga kering, buah	-	Impor	per kilogram	5
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Berbentuk kulit, daun, bunga kering, buah	-	Ekspor/antararea	per kilogram	2
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Berbentuk biji / butiran / tepung / bubuk / serbuk / serat / pelet / lempengan (cake)	-	Impor	per ton	1.000,00
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Berbentuk biji / butiran / tepung / bubuk / serbuk / serat / pelet / lempengan (cake)	-	Ekspor	per ton	500
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Berbentuk biji / butiran / tepung / bubuk / serbuk / serat / pelet / lempengan (cake)	-	Antararea	per ton	250
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Berbentuk umbi / akar / rimpang	-	Impor	per kilogram	10
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Berbentuk umbi / akar / rimpang	-	Ekspor	per kilogram	5
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Berbentuk umbi / akar / rimpang	-	Antararea	per kilogram	2
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Berbentuk irisan	-	Impor	per kilogram	5
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Berbentuk irisan	-	Ekspor	per kilogram	2
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Berbentuk irisan	-	Antararea	per kilogram	1
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Hasil olahan kayu / rotan / bambu	-	Impor	per m3	5.000,00
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Hasil olahan kayu / rotan / bambu	-	Ekspor	per m3	2.000,00
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Hasil olahan kayu / rotan / bambu	-	Antararea	per m3	1.000,00
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Tumbuhan untuk bahan pembungkus (mis. karung goni)	-	Impor	per kilogram	50
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Tumbuhan untuk bahan pembungkus (mis. karung goni)	-	Ekspor/antararea	per kilogram	25
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Kayu untuk bahan pembungkus	-	Impor	per koli	50
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Kayu untuk bahan pembungkus	-	Ekspor/antararea	per koli	25
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Berbentuk cairan	-	Impor	per kilogram	5
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Berbentuk cairan	-	Ekspor	per kilogram	2
+Pemeriksaan	Produk tumbuhan (tidak diolah / telah diolah)	Berbentuk cairan	-	Antararea	per kilogram	1
+Pemeriksaan	Media pembawa lain	Media tanam	-	Impor	per kilogram	10
+Pemeriksaan	Media pembawa lain	Media tanam	-	Ekspor	per kilogram	5
+Pemeriksaan	Media pembawa lain	Media tanam	-	Antararea	per kilogram	2
+Pemeriksaan	Media pembawa lain	Bahan biologik	-	Impor	per kemasan	10.000,00
+Pemeriksaan	Media pembawa lain	Bahan biologik	-	Ekspor	per kemasan	5.000,00
+Pemeriksaan	Media pembawa lain	Bahan biologik	-	Antararea	per kemasan	1.000,00
+Pemeriksaan	Media pembawa lain	Agensia hayati   Hewan Vertebrata	-	Impor	per ekor	50
+Pemeriksaan	Media pembawa lain	Agensia hayati   Hewan Vertebrata	-	Ekspor	per ekor	20
+Pemeriksaan	Media pembawa lain	Agensia hayati   Hewan Vertebrata	-	Antararea	per ekor	10
+Pemeriksaan	Media pembawa lain	Agensia hayati   Hewan Avertebrata   Serangga & moluska	-	Impor	per ekor	50
+Pemeriksaan	Media pembawa lain	Agensia hayati   Hewan Avertebrata   Serangga & moluska	-	Ekspor	per ekor	20
+Pemeriksaan	Media pembawa lain	Agensia hayati   Hewan Avertebrata   Serangga & moluska	-	Antararea	per ekor	10
+Pemeriksaan	Media pembawa lain	Agensia hayati   Hewan Avertebrata   Tungau & Nematoda	-	Impor	per kemasan	10.000,00
+Pemeriksaan	Media pembawa lain	Agensia hayati   Hewan Avertebrata   Tungau & Nematoda	-	Ekspor	per kemasan	5.000,00
+Pemeriksaan	Media pembawa lain	Agensia hayati   Hewan Avertebrata   Tungau & Nematoda	-	Antararea	per kemasan	1.000,00
+Pemeriksaan	Media pembawa lain	Agensia hayati   Tumbuhan	-	Impor	per batang	20
+Pemeriksaan	Media pembawa lain	Agensia hayati   Tumbuhan	-	Ekspor	per batang	10
+Pemeriksaan	Media pembawa lain	Agensia hayati   Tumbuhan	-	Antararea	per batang	2
+Pemeriksaan	Media pembawa lain	Agensia hayati   Mikroorganisme (diformulasikan)	-	Impor	per kilogram	100
+Pemeriksaan	Media pembawa lain	Agensia hayati   Mikroorganisme (diformulasikan)	-	Ekspor	per kilogram	10
+Pemeriksaan	Media pembawa lain	Agensia hayati   Mikroorganisme (diformulasikan)	-	Antararea	per kilogram	2
+Pemeriksaan	Media pembawa lain	Agensia hayati   Mikroorganisme (belum diformulasikan)	-	Impor	per gram	100
+Pemeriksaan	Media pembawa lain	Agensia hayati   Mikroorganisme (belum diformulasikan)	-	Ekspor	per gram	10
+Pemeriksaan	Media pembawa lain	Agensia hayati   Mikroorganisme (belum diformulasikan)	-	Antararea	per gram	2
+Pemeriksaan	Vector	Tumbuhan (sebagai vector)	-	Impor	per batang	50
+Pemeriksaan	Vector	Tumbuhan (sebagai vector)	-	Ekspor	per batang	20
+Pemeriksaan	Vector	Tumbuhan (sebagai vector)	-	Antararea	per batang	10
+Pemeriksaan	Vector	Mikroorganisme (sebagai vector)	-	Impor	per gram	20
+Pemeriksaan	Vector	Mikroorganisme (sebagai vector)	-	Ekspor	per gram	10
+Pemeriksaan	Vector	Mikroorganisme (sebagai vector)	-	Antararea	per gram	2
+Pemeriksaan	Spesimen awetan	-	-	Impor	per kemasan	5.000,00
+Pemeriksaan	Spesimen awetan	-	-	Ekspor	per kemasan	1.000,00
+Pemeriksaan	Spesimen awetan	-	-	Antararea	per kemasan	100
+Pemeriksaan	Alat angkutan	Angkutan laut	-	Impor/Ekspor/Antararea	per kapal	100.000,00
+Pemeriksaan	Alat angkutan	Angkutan udara	-	Impor/Ekspor/Antararea	per pesawat	100.000,00
+Pemeriksaan	Alat angkutan	Angkutan darat	-	Impor/Ekspor/Antararea	per mobil	5.000,00
+Pemeriksaan	Alat angkutan	Peti kemas (container)	-	Impor/ekspor	per peti kemas	10.000,00
+Pemeriksaan	Alat angkutan	Peti kemas (container)	-	Antararea	per peti kemas	2.000,00
+Pemeriksaan	Alat angkutan	Peralatan mesin	-	Impor/ekspor	per kemasan	10.000,00
+Pemeriksaan	Alat angkutan	Peralatan mesin	-	Antararea	per kemasan	1.000,00
+Pengasingan dan Pengamatan	Tumbuhan dan Benih	Berupa pohon	-	Impor	per batang	200
+Pengasingan dan Pengamatan	Tumbuhan dan Benih	Berupa pohon	-	Ekspor/antararea	per batang	100
+Pengasingan dan Pengamatan	Tumbuhan dan Benih	Berupa plantet, ex-plant	-	Impor	per batang	50
+Pengasingan dan Pengamatan	Tumbuhan dan Benih	Berupa plantet, ex-plant	-	Ekspor/antararea	per batang	10
+Pengasingan dan Pengamatan	Tumbuhan dan Benih	Berupa stek/cutting	-	Impor	per batang	50
+Pengasingan dan Pengamatan	Tumbuhan dan Benih	Berupa stek/cutting	-	Ekspor	per batang	10
+Pengasingan dan Pengamatan	Tumbuhan dan Benih	Berupa stek/cutting	-	Antararea	per batang	5
+Pengasingan dan Pengamatan	Tumbuhan dan Benih	Berupa umbi, akar rimpang	-	Impor	per batang	30
+Pengasingan dan Pengamatan	Tumbuhan dan Benih	Berupa umbi, akar rimpang	-	Ekspor	per batang	6
+Pengasingan dan Pengamatan	Tumbuhan dan Benih	Berupa umbi, akar rimpang	-	Antararea	per batang	3
+Pengasingan dan Pengamatan	Tumbuhan dan Benih	Berupa daun, biji, padi-padian, palawija, rumput, hutan, sayur, perkebunan, buah, hias, lanskap	-	Impor	per kilogram	100
+Pengasingan dan Pengamatan	Tumbuhan dan Benih	Berupa daun, biji, padi-padian, palawija, rumput, hutan, sayur, perkebunan, buah, hias, lanskap	-	Ekspor	per kilogram	20
+Pengasingan dan Pengamatan	Tumbuhan dan Benih	Berupa daun, biji, padi-padian, palawija, rumput, hutan, sayur, perkebunan, buah, hias, lanskap	-	Antararea	per kilogram	10
+Pengasingan dan Pengamatan	Tumbuhan dan Benih	Berbentuk serbuk sari	-	Impor	per gram	50
+Pengasingan dan Pengamatan	Tumbuhan dan Benih	Berbentuk serbuk sari	-	Ekspor	per gram	25
+Pengasingan dan Pengamatan	Tumbuhan dan Benih	Berbentuk serbuk sari	-	Antararea	per gram	10
+Pengasingan dan Pengamatan	Agensia Hayati	Hewan vertebrata	-	Impor	per ekor	50
+Pengasingan dan Pengamatan	Agensia Hayati	Hewan vertebrata	-	Ekspor	per ekor	20
+Pengasingan dan Pengamatan	Agensia Hayati	Hewan vertebrata	-	Antararea	per ekor	10
+Pengasingan dan Pengamatan	Agensia Hayati	Hewan avertebrata	Serangga dan moluska	Impor	per ekor	50
+Pengasingan dan Pengamatan	Agensia Hayati	Hewan avertebrata	Serangga dan moluska	Ekspor	per ekor	20
+Pengasingan dan Pengamatan	Agensia Hayati	Hewan avertebrata	Serangga dan moluska	Antararea	per ekor	10
+Pengasingan dan Pengamatan	Agensia Hayati	Hewan avertebrata	Tungau dan nemathoda	Impor	per kemasan	10.000,00
+Pengasingan dan Pengamatan	Agensia Hayati	Hewan avertebrata	Tungau dan nemathoda	Ekspor	per kemasan	5.000,00
+Pengasingan dan Pengamatan	Agensia Hayati	Hewan avertebrata	Tungau dan nemathoda	Antararea	per kemasan	1.000,00
+Pengasingan dan Pengamatan	Agensia Hayati	Tumbuhan (pohon, batang, stek)	-	Impor	per batang	20
+Pengasingan dan Pengamatan	Agensia Hayati	Tumbuhan (pohon, batang, stek)	-	Ekspor	per batang	10
+Pengasingan dan Pengamatan	Agensia Hayati	Tumbuhan (pohon, batang, stek)	-	Antararea	per batang	2
+Pengasingan dan Pengamatan	Agensia Hayati	Mikroorganisme diformulasikan	-	Impor	per kilogram	20
+Pengasingan dan Pengamatan	Agensia Hayati	Mikroorganisme diformulasikan	-	Ekspor	per kilogram	10
+Pengasingan dan Pengamatan	Agensia Hayati	Mikroorganisme diformulasikan	-	Antararea	per kilogram	2
+Pengasingan dan Pengamatan	Agensia Hayati	Mikroorganisme belum diformulasikan	-	Impor	per gram	20
+Pengasingan dan Pengamatan	Agensia Hayati	Mikroorganisme belum diformulasikan	-	Ekspor	per gram	10
+Pengasingan dan Pengamatan	Agensia Hayati	Mikroorganisme belum diformulasikan	-	Antararea	per gram	2
+Pengasingan dan Pengamatan	Agensia Hayati	Vektor - Hewan, serangga	-	Impor	per gram	5
+Pengasingan dan Pengamatan	Agensia Hayati	Vektor - Hewan, serangga	-	Ekspor	per gram	2
+Pengasingan dan Pengamatan	Agensia Hayati	Vektor - Hewan, serangga	-	Antararea	per gram	1
+Pengasingan dan Pengamatan	Agensia Hayati	Vektor - Tumbuhan	-	Impor	per batang	20
+Pengasingan dan Pengamatan	Agensia Hayati	Vektor - Tumbuhan	-	Ekspor	per batang	10
+Pengasingan dan Pengamatan	Agensia Hayati	Vektor - Tumbuhan	-	Antararea	per batang	2
+Pengasingan dan Pengamatan	Agensia Hayati	Vektor - Mikroorganisme	-	Impor	per gram	20
+Pengasingan dan Pengamatan	Agensia Hayati	Vektor - Mikroorganisme	-	Ekspor	per gram	10
+Pengasingan dan Pengamatan	Agensia Hayati	Vektor - Mikroorganisme	-	Antararea	per gram	2
+Perlakuan	Fisik	Pendinginan (cold treatment)	-	Impor/Ekspor/Antararea	per m3	3.000,00
+Perlakuan	Fisik	Uap air panas (vapour heat treatment)	-	Impor/Ekspor/Antararea	per kilogram	300
+Perlakuan	Fisik	Radiasi ultraviolet	-	Impor/Ekspor/Antararea	per m3	4.000,00
+Perlakuan	Fisik	Perendaman dalam air	-	Impor/Ekspor/Antararea	per kilogram	100
+Perlakuan	Fisik	Perendaman dalam air	-	Impor/Ekspor/Antararea	per m3	50
+Perlakuan	Fisik	Perendaman air panas (hot water treatment)	-	Impor/Ekspor/Antararea	per kilogram	300
+Perlakuan	Kimia	Fumigasi	-	Impor/Ekspor/Antararea	per m3	10.000,00
+Perlakuan	Kimia	Penyemprotan	-	Impor/Ekspor/Antararea	per m3	1.000,00
+Perlakuan	Kimia	Pencelupan	-	Impor/Ekspor/Antararea	per batang	500
+Perlakuan	Kimia	Pencelupan	-	Impor/Ekspor/Antararea	per kilogram	1.000,00
+Perlakuan	Kimia	Pembedakan	-	Impor/Ekspor/Antararea	per m3	5.000,00
+Perlakuan	Mekanis	Pencucian	-	Impor/Ekspor/Antararea	per kilogram	250
+Perlakuan	Mekanis	Pencucian	-	Impor/Ekspor/Antararea	per m3	500
+Pengawasan Tindakan Karantina	Pemeriksaan/Pengujian Laboratorium/Perlakuan	-	-	-	per orang (setiap kali)	10.000,00
