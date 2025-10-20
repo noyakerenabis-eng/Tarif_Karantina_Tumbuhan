@@ -19,7 +19,7 @@ with tab1:
     def load_data_pemeriksaan():
         try:
             df = pd.read_csv(
-                r"D:\PEKERJAAN\tarif tindakan karantina1.txt",
+                r"tarif_layanan_karantina.txt",
                 sep="\t",
                 engine="python",
                 dtype=str,
@@ -27,7 +27,7 @@ with tab1:
             )
         except UnicodeDecodeError:
             df = pd.read_csv(
-                r"D:\PEKERJAAN\tarif tindakan karantina1.txt",
+                r"tarif_layanan_karantina.txt",
                 sep="\t",
                 engine="python",
                 dtype=str,
@@ -105,7 +105,7 @@ with tab2:
 
     @st.cache_data
     def load_data_lab():
-        return pd.read_csv(r"C:\Users\Hype G12\Downloads\uji_lab.txt", sep="\t")
+        return pd.read_csv(r"Tarif_uji_lab.txt", sep="\t")
 
     df2 = load_data_lab()
 
@@ -132,3 +132,4 @@ with tab2:
 # ==========================================================
 st.markdown("---")
 st.caption("© 2025 | Sistem Tarif dan Pengujian KT - dibuat oleh Norman Wijaya")
+
